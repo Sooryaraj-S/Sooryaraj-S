@@ -1,12 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0B1120&height=180&text=Sooryaraj%20S&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Creative%20Designer&descAlignY=65&descSize=18&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F3460,50:E63946,100:0B1120&height=200&text=Sooryaraj%20S&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=Your%20Friendly%20Neighborhood%20Full%20Stack%20Developer&descAlignY=65&descSize=18&section=header"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sooryaraj+%F0%9F%91%8B;Full+Stack+Developer;Computer+Science+Student;AI+%2B+Design+Enthusiast;Turning+ideas+into+code+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=26&duration=3000&pause=800&color=E63946&center=true&vCenter=true&width=650&lines=With+great+code+comes+great+responsibility+%F0%9F%95%B7%EF%B8%8F;Hey%2C+I'm+Sooryaraj;Full+Stack+Developer;Swinging+through+bugs+one+commit+at+a+time;Building+my+own+Brand+New+Day" alt="Typing SVG" />
 </a>
 
-💡 *"Turning ideas into scalable digital experiences, one commit at a time."*
+🕸️ *"It's not the web that makes the hero — it's the developer behind it."*
+
+<img src="https://img.shields.io/badge/-BRAND%20NEW%20DAY-E63946?style=for-the-badge&labelColor=0F3460"/>
 
 </div>
 
@@ -18,49 +20,49 @@
 
 ---
 
-## 📬 Connect With Me
+## 🕷️ Connect With Me
 
 <p align="center">
 
 <a href="mailto:sooryaraj.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0B1120?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Gmail-0F3460?style=for-the-badge&logo=gmail&logoColor=E63946"/>
 </a>
 
 <a href="https://linkedin.com/in/Sooryaraj-S">
-<img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0F3460?style=for-the-badge&logo=linkedin&logoColor=E63946"/>
 </a>
 
 <a href="https://instagram.com/mine._.vivid">
-<img src="https://img.shields.io/badge/Instagram-0B1120?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Instagram-0F3460?style=for-the-badge&logo=instagram&logoColor=E63946"/>
 </a>
 
 <a href="https://x.com/Sooryarajdev">
-<img src="https://img.shields.io/badge/X-0B1120?style=for-the-badge&logo=x&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/X-0F3460?style=for-the-badge&logo=x&logoColor=E63946"/>
 </a>
 
 <a href="https://medium.com/@sooryaraj.dev">
-<img src="https://img.shields.io/badge/Medium-0B1120?style=for-the-badge&logo=medium&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Medium-0F3460?style=for-the-badge&logo=medium&logoColor=E63946"/>
 </a>
 
 <a href="https://discord.gg/bright_pc">
-<img src="https://img.shields.io/badge/Discord-0B1120?style=for-the-badge&logo=discord&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Discord-0F3460?style=for-the-badge&logo=discord&logoColor=E63946"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sooryaraj-S&color=00E5FF&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Sooryaraj-S&color=E63946&label=Web+Shots+Fired+(Views)"/>
 
-<img src="https://img.shields.io/github/followers/Sooryaraj-S?label=Followers&style=flat&color=00E5FF"/>
+<img src="https://img.shields.io/github/followers/Sooryaraj-S?label=Followers&style=flat&color=E63946"/>
 
-<img src="https://img.shields.io/github/stars/Sooryaraj-S?affiliations=OWNER&style=flat&color=00E5FF"/>
+<img src="https://img.shields.io/github/stars/Sooryaraj-S?affiliations=OWNER&style=flat&color=E63946"/>
 
 </p>
 
 ---
 
-# 🧠 Tech Stack
+# 🕸️ Tech Web
 
 <p align="center">
 
@@ -70,7 +72,7 @@
 
 ---
 
-# 🎨 Creative Tools
+# 🎨 Gadget Belt (Creative Tools)
 
 <p align="center">
 
@@ -80,7 +82,7 @@
 
 ---
 
-# 🚀 Currently Learning
+# 🏋️ Training Arc — Currently Learning
 
 ```text
 ▰▰▰▰▰▰▰▱▱▱ Next.js
@@ -92,72 +94,72 @@
 
 ---
 
-# 🌟 Featured Projects
+# 🏙️ Featured Missions (Projects)
 
-<!-- Swap these out with your real repos — the pin-card auto-pulls stars/forks/language -->
+<!-- Swap these repo names with your real ones -->
 
 <p align="center">
 <a href="https://github.com/Sooryaraj-S/PROJECT_ONE">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_ONE&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_ONE&theme=dracula&border_color=E63946"/>
 </a>
 <a href="https://github.com/Sooryaraj-S/PROJECT_TWO">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_TWO&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_TWO&theme=dracula&border_color=E63946"/>
 </a>
 </p>
 <p align="center">
 <a href="https://github.com/Sooryaraj-S/PROJECT_THREE">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_THREE&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_THREE&theme=dracula&border_color=E63946"/>
 </a>
 <a href="https://github.com/Sooryaraj-S/PROJECT_FOUR">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_FOUR&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_FOUR&theme=dracula&border_color=E63946"/>
 </a>
 </p>
 
-> 💡 Tip: Go to your GitHub profile → "Customize your pins" and pick your 4-6 best repos, then swap `PROJECT_ONE` etc. above with the real repo names.
+> 💡 Swap `PROJECT_ONE`, `PROJECT_TWO`, etc. with your actual repo names from GitHub.
 
 ---
 
-# 🗺️ My Journey
+# 🗺️ Origin Story — My Journey
 
 ```text
-2023  ── Started B.Tech in Computer Science
-2024  ── Dove into Full Stack Development (MERN)
-2024  ── Explored UI/UX + Motion Design
-2025  ── Building AI-powered applications
-2026  ── Leveling up: Next.js, Docker, System Design
+2023  ── Bitten by the Computer Science bug — B.Tech begins
+2024  ── Discovered my powers: Full Stack Development (MERN)
+2024  ── Trained in UI/UX + Motion Design
+2025  ── First real missions: Building AI-powered applications
+2026  ── Brand New Day: Next.js, Docker, System Design
 ```
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 Hero Stats
 
 <img align="right" width="38%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sooryaraj-S&show_icons=true&theme=tokyonight&hide_border=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sooryaraj-S&show_icons=true&theme=dracula&border_color=E63946&icon_color=E63946&title_color=E63946"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=Sooryaraj-S&theme=tokyonight"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=Sooryaraj-S&theme=dracula&border=E63946&ring=E63946&fire=E63946"/>
 
 ---
 
 # 💻 Most Used Languages
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryaraj-S&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryaraj-S&layout=compact&theme=dracula&border_color=E63946&title_color=E63946"/>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sooryaraj-S&theme=algolia&margin-w=10&margin-h=10"/>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sooryaraj-S&theme=react-dark&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sooryaraj-S&theme=dracula&margin-w=10&margin-h=10"/>
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Web-Slinging Activity (Contribution Graph)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sooryaraj-S&theme=dracula&hide_border=true&color=E63946&line=E63946&point=FFFFFF"/>
+
+---
+
+# 🕸️ Contribution Snake (Web-Crawler Edition)
 
 <p align="center">
 
@@ -169,15 +171,15 @@
 
 # 🔥 Top Repositories
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Sooryaraj-S&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=Sooryaraj-S&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
 
 ---
 
-# ✍️ Quote of the Day
+# ✍️ Wisdom from Uncle Ben (Quote of the Day)
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 
 </p>
 
@@ -186,33 +188,34 @@
 # ☕ Fun Fact
 
 ```javascript
-while(alive){
-    Eat();
-    Learn();
-    Build();
-    Repeat();
+while(spiderSense_tingling){
+    SwingIntoIDE();
+    SquashBugs();
+    ShipFeature();
+    SaveTheDay();
 }
 ```
 
 ---
 
-# 🎧 Currently Vibing To
+# 🎧 Currently Vibing To (Patrolling Soundtrack)
 
-<!-- Spotify now-playing widget — needs a one-time free setup at the link below -->
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0B1120&interchange=false&bar_color=00E5FF&bar_color_cover=false"/>
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0B1120&interchange=false&bar_color=E63946&bar_color_cover=false"/>
 </p>
 
-> 💡 Set this up free at [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app) — replace `YOUR_SPOTIFY_UID` once you connect.
+> 💡 Set this up free at [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app) — replace `YOUR_SPOTIFY_UID` once connected.
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for Visiting!
+### 🕷️ Thanks for Swinging By!
 
-*"Every great application starts with a single line of code."*
+*"Every hero's story starts with a single decision — mine started with a single commit."*
+
+<img src="https://img.shields.io/badge/-YOUR%20FRIENDLY%20NEIGHBORHOOD%20DEVELOPER-0F3460?style=for-the-badge&labelColor=E63946"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0B1120&height=120&section=footer&text=Happy%20Coding!%20🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1120,50:E63946,100:0F3460&height=150&section=footer&text=Stay%20Amazing!%20%F0%9F%95%B8%EF%B8%8F&fontSize=30&fontColor=FFFFFF&animation=twinkling"/>

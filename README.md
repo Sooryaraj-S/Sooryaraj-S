@@ -122,11 +122,19 @@
 # 🗺️ Origin Story — My Journey
 
 ```text
-2023  ── Bitten by the Computer Science bug — B.Tech begins
-2024  ── Discovered my powers: Full Stack Development (MERN)
-2024  ── Trained in UI/UX + Motion Design
-2025  ── First real missions: Building AI-powered applications
-2026  ── Brand New Day: Next.js, Docker, System Design
+## 🕷️ Origin Story
+
+```text
+🕸️ 2021 ─ Took my first steps into the world of technology
+🎓 2023 ─ Completed Higher Secondary and began chasing my dream of becoming a developer
+💻 2024 ─ Started B.Sc. Computer Science (Full Stack Web Development)
+⚡ 2025 ─ Built AI-powered applications and entered the world of Full Stack Development
+🚀 2025 ─ Started my first internship as a Full Stack Developer @ EDU TANTR
+📄 2025 ─ Presented cybersecurity research at an International Conference
+🎯 2026 ─ Joined Aruna Agro as a Frontend Developer
+🏆 2026 ─ Won 2nd Prize at UNIFEST'26 Debugging Competition
+🕷️ Today ─ Building modern web applications while learning Next.js, Docker, AWS & AI
+```
 ```
 
 ---

@@ -1,27 +1,175 @@
-# 💫 About Me:
-I am an aspiring Full Stack Web Developer and Computer Science student with a strong passion for building modern, user-centric web applications. I enjoy transforming ideas into functional, scalable digital solutions by combining frontend creativity with backend logic.<br>Alongside development, I am a photographer and video & photo editor, which enhances my visual sense and helps me design engaging and aesthetically refined interfaces. I bring a unique blend of technical skills and creative thinking to every project I work on.<br>Driven by a student mindset and a startup spirit, I am continuously learning, experimenting, and improving my full stack skills to create impactful, real-world applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0B1120&height=180&text=Sooryaraj%20S&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Creative%20Designer&descAlignY=65&descSize=18&section=header"/>
 
+# 👋 Hey, I'm Sooryaraj
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/sooryaraj.bsky.socia) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bright_pc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mine._.vivid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sooryaraj-S) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sooryaraj.dev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sooryarajdev) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sooryaraj-S-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/No_Classroom7033) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sooryaraj-s) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/bright_pc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sooryarajdev) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/SOORYA-RAJ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sooryaraj.dev@gmail.com) 
+### 🚀 Full Stack Developer | Computer Science Student | AI Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sooryaraj-S&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sooryaraj-S&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryaraj-S&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sooryaraj-S&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sooryaraj-S&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💡 *"Turning ideas into scalable digital experiences, one commit at a time."*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sooryaraj-S&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sooryaraj.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0B1120?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+</a>
+
+<a href="https://linkedin.com/in/Sooryaraj-S">
+<img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+</a>
+
+<a href="https://instagram.com/mine._.vivid">
+<img src="https://img.shields.io/badge/Instagram-0B1120?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
+</a>
+
+<a href="https://x.com/Sooryarajdev">
+<img src="https://img.shields.io/badge/X-0B1120?style=for-the-badge&logo=x&logoColor=00E5FF"/>
+</a>
+
+<a href="https://medium.com/@sooryaraj.dev">
+<img src="https://img.shields.io/badge/Medium-0B1120?style=for-the-badge&logo=medium&logoColor=00E5FF"/>
+</a>
+
+<a href="https://discord.gg/bright_pc">
+<img src="https://img.shields.io/badge/Discord-0B1120?style=for-the-badge&logo=discord&logoColor=00E5FF"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sooryaraj-S&color=00E5FF&label=Profile+Views"/>
+
+<img src="https://img.shields.io/github/followers/Sooryaraj-S?label=Followers&style=flat&color=00E5FF"/>
+
+<img src="https://img.shields.io/github/stars/Sooryaraj-S?affiliations=OWNER&style=flat&color=00E5FF"/>
+
+</p>
+
+---
+
+# 🧠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react,nodejs,express,mongodb,mysql,firebase,tailwind,flutter,docker,git,github,linux,vscode,figma,vercel&theme=dark"/>
+
+</p>
+
+---
+
+# 🎨 Creative Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ps,pr,ae,figma,canva&theme=dark"/>
+
+</p>
+
+---
+
+# 🚀 Currently Learning
+
+```text
+▰▰▰▰▰▰▰▱▱▱ Next.js
+
+▰▰▰▰▰▰▱▱▱▱ Docker
+
+▰▰▰▰▰▱▱▱▱▱ AWS
+
+▰▰▰▰▰▰▰▰▱▱ System Design
+
+▰▰▰▰▰▰▰▱▱▱ AI Development
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<img align="right" width="38%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sooryaraj-S&show_icons=true&theme=tokyonight&hide_border=false"/>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=Sooryaraj-S&theme=tokyonight"/>
+
+---
+
+# 💻 Most Used Languages
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryaraj-S&layout=compact&theme=tokyonight"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sooryaraj-S&theme=algolia&margin-w=10&margin-h=10"/>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sooryaraj-S&theme=react-dark&hide_border=true"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Sooryaraj-S/Sooryaraj-S/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🔥 Top Repositories
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Sooryaraj-S&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+---
+
+# ✍️ Quote of the Day
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ☕ Fun Fact
+
+```javascript
+while(alive){
+
+    Eat();
+
+    Learn();
+
+    Build();
+
+    Repeat();
+
+}
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting!
+
+*"Every great application starts with a single line of code."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0B1120&height=120&section=footer&text=Happy%20Coding!%20🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling"/>

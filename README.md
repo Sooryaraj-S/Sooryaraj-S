@@ -160,16 +160,7 @@
 ---
 
 # 🕸️ Contribution Snake (Web-Crawler Edition)
-
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ sooryaraj-s }}
-
-    outputs: |
-      dist/github-snake.svg?color_snake=%23E63946&color_dots=%23F8FAFC,%238AB4F8,%233B82F6,%231D4ED8,%230F172A
-      dist/github-snake-dark.svg?palette=github-dark&color_snake=%23E63946&color_dots=%23F8FAFC,%238AB4F8,%233B82F6,%231D4ED8,%230F172A
-      dist/github-snake.gif?color_snake=%23E63946&color_dots=%23F8FAFC,%238AB4F8,%233B82F6,%231D4ED8,%230F172A&color_background=%230B1120
-
+<p align="center"> <img src="https://raw.githubusercontent.com/Sooryaraj-S/Sooryaraj-S/output/github-contribution-grid-snake-dark.svg"/> </p>
 ---
 
 # 🔥 Top Repositories

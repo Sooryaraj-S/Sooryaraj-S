@@ -1,10 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0B1120&height=180&text=Sooryaraj%20S&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Creative%20Designer&descAlignY=65&descSize=18&section=header"/>
 
-# 👋 Hey, I'm Sooryaraj
+<div align="center">
 
-### 🚀 Full Stack Developer | Computer Science Student | AI Enthusiast
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sooryaraj+%F0%9F%91%8B;Full+Stack+Developer;Computer+Science+Student;AI+%2B+Design+Enthusiast;Turning+ideas+into+code+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
 💡 *"Turning ideas into scalable digital experiences, one commit at a time."*
+
+</div>
 
 ---
 
@@ -80,14 +84,47 @@
 
 ```text
 ▰▰▰▰▰▰▰▱▱▱ Next.js
-
 ▰▰▰▰▰▰▱▱▱▱ Docker
-
 ▰▰▰▰▰▱▱▱▱▱ AWS
-
 ▰▰▰▰▰▰▰▰▱▱ System Design
-
 ▰▰▰▰▰▰▰▱▱▱ AI Development
+```
+
+---
+
+# 🌟 Featured Projects
+
+<!-- Swap these out with your real repos — the pin-card auto-pulls stars/forks/language -->
+
+<p align="center">
+<a href="https://github.com/Sooryaraj-S/PROJECT_ONE">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_ONE&theme=tokyonight"/>
+</a>
+<a href="https://github.com/Sooryaraj-S/PROJECT_TWO">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_TWO&theme=tokyonight"/>
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/Sooryaraj-S/PROJECT_THREE">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_THREE&theme=tokyonight"/>
+</a>
+<a href="https://github.com/Sooryaraj-S/PROJECT_FOUR">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=PROJECT_FOUR&theme=tokyonight"/>
+</a>
+</p>
+
+> 💡 Tip: Go to your GitHub profile → "Customize your pins" and pick your 4-6 best repos, then swap `PROJECT_ONE` etc. above with the real repo names.
+
+---
+
+# 🗺️ My Journey
+
+```text
+2023  ── Started B.Tech in Computer Science
+2024  ── Dove into Full Stack Development (MERN)
+2024  ── Explored UI/UX + Motion Design
+2025  ── Building AI-powered applications
+2026  ── Leveling up: Next.js, Docker, System Design
 ```
 
 ---
@@ -150,17 +187,23 @@
 
 ```javascript
 while(alive){
-
     Eat();
-
     Learn();
-
     Build();
-
     Repeat();
-
 }
 ```
+
+---
+
+# 🎧 Currently Vibing To
+
+<!-- Spotify now-playing widget — needs a one-time free setup at the link below -->
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0B1120&interchange=false&bar_color=00E5FF&bar_color_cover=false"/>
+</p>
+
+> 💡 Set this up free at [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app) — replace `YOUR_SPOTIFY_UID` once you connect.
 
 ---
 

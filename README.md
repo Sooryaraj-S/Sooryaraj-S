@@ -96,50 +96,36 @@
 
 # 🏙️ Featured Missions (Projects)
 
-<!-- Swap these repo names with your real ones -->
-
 <p align="center">
-
 <a href="https://github.com/Sooryaraj-S/Resume-and-Portfolio-Buliding-Tool">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=Resume-and-Portfolio-Buliding-Tool&theme=dracula&border_color=E63946&title_color=E63946&icon_color=E63946"/>
 </a>
-
 <a href="https://github.com/Sooryaraj-S/resume-muse-web-main">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=resume-muse-web-main&theme=dracula&border_color=E63946&title_color=E63946&icon_color=E63946"/>
 </a>
-
 </p>
-
 <p align="center">
-
 <a href="https://github.com/Sooryaraj-S/Tic-Tak-Toe">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=Tic-Tak-Toe&theme=dracula&border_color=E63946&title_color=E63946&icon_color=E63946"/>
 </a>
-
 <a href="https://github.com/Sooryaraj-S/portfolio">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=portfolio&theme=dracula&border_color=E63946&title_color=E63946&icon_color=E63946"/>
 </a>
-
 </p>
-
-> 💡 Swap `PROJECT_ONE`, `PROJECT_TWO`, etc. with your actual repo names from GitHub.
 
 ---
 
 # 🗺️ Origin Story — My Journey
 
 ```text
-## 🕷️ Origin Story
-🕸️ 2021 ─ Took my first steps into the world of technology
-🎓 2023 ─ Completed Higher Secondary and began chasing my dream of becoming a developer
-💻 2024 ─ Started B.Sc. Computer Science (Full Stack Web Development)
-⚡ 2025 ─ Built AI-powered applications and entered the world of Full Stack Development
-🚀 2025 ─ Started my first internship as a Full Stack Developer @ EDU TANTR
-📄 2025 ─ Presented cybersecurity research at an International Conference
-🎯 2026 ─ Joined Aruna Agro as a Frontend Developer
-🏆 2026 ─ Won 2nd Prize at UNIFEST'26 Debugging Competition
-🕷️ Today ─ Building modern web applications while learning Next.js, Docker, AWS & AI
+2023  ── Bitten by the Computer Science bug — B.Tech begins
+2024  ── Discovered my powers: Full Stack Development (MERN)
+2024  ── Trained in UI/UX + Motion Design
+2025  ── First real missions: Building AI-powered applications
+2026  ── Brand New Day: Next.js, Docker, System Design
 ```
+
+---
 
 # 📊 Hero Stats
 
@@ -170,7 +156,13 @@
 ---
 
 # 🕸️ Contribution Snake (Web-Crawler Edition)
-<p align="center"> <img src="https://raw.githubusercontent.com/Sooryaraj-S/Sooryaraj-S/output/github-contribution-grid-snake-dark.svg"/> </p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Sooryaraj-S/Sooryaraj-S/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
 ---
 
 # 🔥 Top Repositories
@@ -208,7 +200,7 @@ while(spiderSense_tingling){
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0B1120&interchange=false&bar_color=E63946&bar_color_cover=false"/>
 </p>
 
-> 💡 Set this up free at [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app) — replace `31tycnw6cr6mq4vzo23trajitbpy` once connected.
+> 💡 Set this up free at [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app) — replace `YOUR_SPOTIFY_UID` once connected.
 
 ---
 

@@ -161,13 +161,13 @@ while(spiderSense_tingling){
 ---
 
 
-
+<div align="center">
 <img src="./assets/cat2.gif" width="180"/>
 
 </div>
 
 
-<div align="center">
+
 ### 🕷️ Thanks for Swinging By!
 
 *"Every hero's story starts with a single decision — mine started with a single commit."*

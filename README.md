@@ -167,7 +167,7 @@ while(spiderSense_tingling){
 </div>
 
 
-
+<div align="center">
 ### 🕷️ Thanks for Swinging By!
 
 *"Every hero's story starts with a single decision — mine started with a single commit."*

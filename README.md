@@ -117,8 +117,6 @@
 
 <img align="right" width="38%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sooryaraj-S&show_icons=true&theme=dracula&border_color=E63946&icon_color=E63946&title_color=E63946"/>
-
 <img height="170em" src="https://streak-stats.demolab.com?user=Sooryaraj-S&theme=dracula&border=E63946&ring=E63946&fire=E63946"/>
 
 ---
@@ -129,7 +127,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Sooryaraj-S/Sooryaraj-S/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Sooryaraj-S/Sooryaraj-S/assets/github-user-contribution.svg"/>
 
 </p>
 

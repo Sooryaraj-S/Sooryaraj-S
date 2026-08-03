@@ -126,9 +126,7 @@
 # 🕸️ Contribution Snake (Web-Crawler Edition)
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Sooryaraj-S/Sooryaraj-S/assets/github-user-contribution.svg"/>
-
+  <img src="./assets/github-user-contribution.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---

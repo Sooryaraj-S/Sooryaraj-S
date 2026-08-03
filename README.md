@@ -160,7 +160,7 @@ while(spiderSense_tingling){
 
 ---
 
-<div align="center">
+
 
 <img src="./assets/cat2.gif" width="180"/>
 

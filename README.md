@@ -94,26 +94,7 @@
 
 ---
 
-# 🏙️ Featured Missions (Projects)
 
-<p align="center">
-<a href="https://github.com/Sooryaraj-S/Resume-and-Portfolio-Buliding-Tool">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=Resume-and-Portfolio-Buliding-Tool&theme=dracula&border_color=E63946&title_color=E63946&icon_color=E63946"/>
-</a>
-<a href="https://github.com/Sooryaraj-S/resume-muse-web-main">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=resume-muse-web-main&theme=dracula&border_color=E63946&title_color=E63946&icon_color=E63946"/>
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/Sooryaraj-S/Tic-Tak-Toe">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=Tic-Tak-Toe&theme=dracula&border_color=E63946&title_color=E63946&icon_color=E63946"/>
-</a>
-<a href="https://github.com/Sooryaraj-S/portfolio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sooryaraj-S&repo=portfolio&theme=dracula&border_color=E63946&title_color=E63946&icon_color=E63946"/>
-</a>
-</p>
-
----
 
 # 🗺️ Origin Story — My Journey
 
@@ -142,23 +123,7 @@
 
 ---
 
-# 💻 Most Used Languages
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooryaraj-S&layout=compact&theme=dracula&border_color=E63946&title_color=E63946"/>
-
----
-
-# 🏆 Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sooryaraj-S&theme=dracula&margin-w=10&margin-h=10"/>
-
----
-
-# 📈 Web-Slinging Activity (Contribution Graph)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sooryaraj-S&theme=dracula&hide_border=true&color=E63946&line=E63946&point=FFFFFF"/>
-
----
 
 # 🕸️ Contribution Snake (Web-Crawler Edition)
 
@@ -170,11 +135,6 @@
 
 ---
 
-# 🔥 Top Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Sooryaraj-S&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
-
----
 
 # ✍️ Wisdom from Uncle Ben (Quote of the Day)
 
@@ -199,17 +159,13 @@ while(spiderSense_tingling){
 
 ---
 
-# 🎧 Currently Vibing To (Patrolling Soundtrack)
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0B1120&interchange=false&bar_color=E63946&bar_color_cover=false"/>
-</p>
-
-> 💡 Set this up free at [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app) — replace `YOUR_SPOTIFY_UID` once connected.
-
----
-
 <div align="center">
+
+<img src="./assets/cat2.gif" width="180"/>
+
+</div>
+
+
 
 ### 🕷️ Thanks for Swinging By!
 

@@ -24,7 +24,7 @@
 
 <p align="center">
 
-<a href="mailto:sooryaraj.dev@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRdtlVdJvkKZdRjbBBsqBFJkkdgMPxRPNRbBscbRKGDVNsRBsZfDGNPhqtzVMbhcdTQdvc">
 <img src="https://img.shields.io/badge/Gmail-0F3460?style=for-the-badge&logo=gmail&logoColor=E63946"/>
 </a>
 
@@ -46,9 +46,6 @@
 
 <a href="https://discord.gg/RGrxVmcqk">
 <img src="https://img.shields.io/badge/Discord-0F3460?style=for-the-badge&logo=discord&logoColor=E63946"/>
-</a>
-<a href="https://linkedin.com/in/Sooryaraj-S">
-  <img src="https://img.shields.io/badge/LinkedIn-0F3460?style=for-the-badge&logo=linkedin&logoColor=E63946"/>
 </a>
 <a href="https://open.spotify.com/user/31tycnw6cr6mq4vzo23trajitbpy">
   <img src="https://img.shields.io/badge/Spotify-0F3460?style=for-the-badge&logo=spotify&logoColor=E63946"/>

@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Sooryaraj-S/Sooryaraj-S/main/assets/cat2.gif" width="88%" alt="Animated cat" />
+<img src="https://raw.githubusercontent.com/Sooryaraj-S/Sooryaraj-S/main/assets/eye.gif" width="88%" alt="Animated cat" />
 
 </div>
 

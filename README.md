@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="[https://komarev.com/ghpvc/?username=Sooryaraj-S&label=PROFILE+VIEWS&color=E63946&style=for-the-badge](https://camo.githubusercontent.com/b0786c5db7ac5829ada394a4a0df162a8f11a912e832bf58a8445e63f5025a4b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536f6f72796172616a2d53266c6162656c3d50524f46494c452b564945575326636f6c6f723d453633393436267374796c653d666f722d7468652d6261646765)" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Sooryaraj-S&label=PROFILE+VIEWS&color=E63946&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Sooryaraj-S?label=FOLLOWERS&style=for-the-badge&color=0F3460" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Sooryaraj-S?affiliations=OWNER&label=STARS&style=for-the-badge&color=E63946" alt="Stars" />
 

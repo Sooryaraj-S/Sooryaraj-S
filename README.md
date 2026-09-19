@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/github/stars/Sooryaraj-S?affiliations=OWNER&label=STARS&style=for-the-badge&color=E63946" alt="Stars" />
 
 <br><br>
-```
-```
+
 </div>
 
 ---

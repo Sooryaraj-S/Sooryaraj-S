@@ -13,9 +13,9 @@
 <img src="https://img.shields.io/github/stars/Sooryaraj-S?affiliations=OWNER&label=STARS&style=for-the-badge&color=E63946" alt="Stars" />
 
 <br><br>
-
+```
 <img src="https://raw.githubusercontent.com/Sooryaraj-S/Sooryaraj-S/main/assets/eye1.gif" width="88%" alt="Animated cat" />
-
+```
 </div>
 
 ---

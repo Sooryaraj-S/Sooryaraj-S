@@ -14,7 +14,6 @@
 
 <br><br>
 ```
-<img src="https://raw.githubusercontent.com/Sooryaraj-S/Sooryaraj-S/main/assets/eye1.gif" width="88%" alt="Animated cat" />
 ```
 </div>
 
